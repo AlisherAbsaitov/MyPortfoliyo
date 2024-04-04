@@ -1,5 +1,4 @@
 import React,{useEffect} from "react";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import "./Project.css";
 import Aos from "aos";
 import "aos/dist/aos.css";

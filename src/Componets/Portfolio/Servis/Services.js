@@ -1,6 +1,6 @@
 import React,{useEffect} from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faCode, faP } from "@fortawesome/free-solid-svg-icons";
+import { faCode} from "@fortawesome/free-solid-svg-icons";
 import { faPhotoVideo } from "@fortawesome/free-solid-svg-icons";
 import { faPen } from "@fortawesome/free-solid-svg-icons";
 import "./Services.css"

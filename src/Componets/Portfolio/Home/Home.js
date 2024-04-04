@@ -2,7 +2,6 @@ import React from 'react';
 import Typewriter from "typewriter-effect"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub, faTelegram } from '@fortawesome/free-brands-svg-icons';
-import { faFacebook } from '@fortawesome/free-brands-svg-icons';
 import { faTwitter } from '@fortawesome/free-brands-svg-icons';
 import Yousaf from "../images/people_1.png";
 import "./Home.css"
