@@ -1,0 +1,41 @@
+.projects{
+    background-color: #000;
+    color: white;
+}
+
+.hr{
+    height: 2px !important;
+    background-image: -webkit-linear-gradient(to left red, white,white,black ) !important;
+}
+
+.myProjectText{
+    text-align: center;
+
+}
+
+.myProjectText span{
+    color: rgb(21, 211, 59);
+}
+
+.card{
+    transition: 2s;
+}
+
+.card:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.card-body a{
+    color: #fff;
+    background-color: rgb(21, 211, 59);
+}
+
+.card-body a:hover{
+    border: 1px solid rgb(21, 211, 59);
+    background-color: transparent;
+}
+
+.card-img-top{
+    border:2px solid green;
+}

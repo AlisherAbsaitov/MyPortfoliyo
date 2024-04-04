@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Montserrat:wght@300&family=Playball&family=Roboto&display=swap');
+
+.navbar{
+    background-color: #000 !important;
+}
+
+.logo{
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    color: red;
+}
+
+.logo span{
+    color: rgb(21, 211, 59);
+}
+
+.navbar li{
+    padding: 0px 20px;
+}
+
+.navbar li a{
+    color: #fff !important;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.navbar li a:hover{
+    color: aqua !important;
+}
+
+.offcanvas-body{
+    background-color:#212529;
+    padding: 0 10px !important;
+}
+.phone_navbar_link{
+    padding-left: 10px !important;
+    color:#7fffd4 !important;
+    font-size: 30px !important;
+    height: 40px !important;
+    font-family: sans-serif;
+    font-weight: 600;
+    border-bottom: 1px solid green;
+}
+
+.offcanvas-star{
+    background-color:#212529 ;
+}

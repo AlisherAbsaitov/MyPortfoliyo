@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+}
+
+.home{
+    background-image: url("../images/backround_img.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
+}
+
+.homeTextPart{
+    display: flex;
+    align-items: center;
+}
+
+.homeTextPart h3{
+    color:aquamarine !important;
+}
+
+.homeImagepart{
+    padding-top: 80px;
+    height: 93.5vh;
+    overflow: hidden;
+}
+
+.icon{
+    font-size: 20px;
+    padding: 0px 10px;
+    color: #fff;
+}
+
+.icon:hover{
+    color: aquamarine !important;
+}
+
+@media  screen and (max-width:768px) {
+    .home{
+        height: auto;
+    }
+   
+
+    .homeTextPart{
+        text-align: center;
+        padding-top: 80px;
+    }
+}
+
+@media  screen and (min-width:769px) {
+    .homeImagepart{
+        padding-left: 100px !important;
+    }
+}

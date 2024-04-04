@@ -1,0 +1,56 @@
+.services{
+    background-color: #000;
+    color: white;
+}
+
+.hr{
+    height: 2px !important;
+    background-image: -webkit-linear-gradient(to left red, white,white,black ) !important;
+}
+
+.myServicesText{
+    text-align: center;
+
+}
+
+.myServicesText span{
+    color: rgb(21, 211, 59);
+}
+
+.serviseIcon{
+    color: rgb(21, 211, 59) !important;
+}
+
+.serviseIcon span{
+    border-color: rgb(21, 211, 59) !important;
+}
+
+.servise{
+    transition: 1s ;
+    height: 230px;
+    overflow: scroll;
+}
+
+.servise::-webkit-scrollbar {
+    display: none !important;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.servise {
+  -ms-overflow-style: none !important;  /* IE and Edge */
+  scrollbar-width: none !important;  /* Firefox */
+}
+
+.servise:hover{
+    background-color: rgb(21, 211, 59) ;
+    transform: scale(1.1) ;
+    cursor: pointer ;
+}
+
+.servise:hover .serviseIcon{
+    color: #fff !important;
+}
+
+.servise:hover .serviseIcon span{
+    border-color: #fff !important;
+}
