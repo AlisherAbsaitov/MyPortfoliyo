@@ -30,7 +30,7 @@ const Project = () => {
               <div className="card-body">
                 <h5 className="card-title">Zako IT akademy</h5>
                 <p>Some quick exampe text to build on the card title and ...</p>
-                <a href="https://zako.netlify.app" className="btn " target={"_blank"}>More Detail...</a>
+                <a  href="https://zako.netlify.app" className="btn "  target={"_blank"} rel="noreferrer" >More Detail...</a>
               </div>
             </div>
           </div>
@@ -40,7 +40,7 @@ const Project = () => {
               <div className="card-body">
                 <h5 className="card-title">Faq about Uzbekistan</h5>
                 <p>Some quick exampe text to build on the card title and ...</p>
-                <a href="https://faqreder.netlify.app" className="btn" target={"_blank"}>More Detail...</a>
+                <a href="https://faqreder.netlify.app" className="btn" target={"_blank"} rel="noreferrer" >More Detail...</a>
               </div>
             </div>
           </div>
@@ -51,7 +51,7 @@ const Project = () => {
               <div className="card-body">
                 <h5 className="card-title">Kankulyotor</h5>
                 <p>Some quick exampe text to build on the card title and ...</p>
-                <a href="https://moderkankulyator.netlify.app" className="btn " target={"_blank"}>More Detail...</a>
+                <a href="https://moderkankulyator.netlify.app" className="btn " target={"_blank"} rel="noreferrer" >More Detail...</a>
               </div>
             </div>
           </div>
@@ -62,7 +62,7 @@ const Project = () => {
               <div className="card-body">
                 <h5 className="card-title">Ob havo</h5>
                 <p>Some quick exampe text to build on the card title and ...</p>
-                <a href="https://obhavoinfo.netlify.app" className="btn " target={"_blank"}>More Detail...</a>
+                <a href="https://obhavoinfo.netlify.app" className="btn " target={"_blank"} rel="noreferrer" >More Detail...</a>
               </div>
             </div>
           </div>
@@ -73,7 +73,7 @@ const Project = () => {
               <div className="card-body">
                 <h5 className="card-title">QR code</h5>
                 <p>Some quick exampe text to build on the card title and ...</p>
-                <a href="https://modernqrcode.netlify.app" className="btn " target={"_blank"}>More Detail...</a>
+                <a href="https://modernqrcode.netlify.app" className="btn " target={"_blank"} rel="noreferrer" >More Detail...</a>
               </div>
             </div>
           </div>
@@ -84,7 +84,7 @@ const Project = () => {
               <div className="card-body">
                 <h5 className="card-title">Gecko</h5>
                 <p>Some quick exampe text to build on the card title and ...</p>
-                <a href="https://moderngecko.netlify.app/" target={"_blank"} className="btn ">More Detail...</a>
+                <a href="https://moderngecko.netlify.app/" target={"_blank"} rel="noreferrer"  className="btn ">More Detail...</a>
               </div>
             </div>
           </div>
